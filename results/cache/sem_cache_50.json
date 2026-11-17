@@ -1,0 +1,15 @@
+{
+  "scenario": "no-cache",
+  "users": 50,
+  "duration_s": 10.031,
+  "total_requests": 12876,
+  "successful_requests": 12876,
+  "errors": 0,
+  "error_rate_pct": 0.0,
+  "avg_ms": 38.821,
+  "p95_ms": 47.743,
+  "p99_ms": 65.416,
+  "throughput_req_s": 1283.645,
+  "successful_throughput_req_s": 1283.645,
+  "error_details": {}
+}

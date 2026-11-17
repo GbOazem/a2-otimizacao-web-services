@@ -1,0 +1,15 @@
+{
+  "scenario": "lazy",
+  "users": 100,
+  "duration_s": 10.975,
+  "total_requests": 976,
+  "successful_requests": 976,
+  "errors": 0,
+  "error_rate_pct": 0.0,
+  "avg_ms": 1075.026,
+  "p95_ms": 1315.971,
+  "p99_ms": 1445.264,
+  "throughput_req_s": 88.93,
+  "successful_throughput_req_s": 88.93,
+  "error_details": {}
+}

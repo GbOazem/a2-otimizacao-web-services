@@ -1,0 +1,15 @@
+{
+  "scenario": "eager",
+  "users": 100,
+  "duration_s": 10.504,
+  "total_requests": 1874,
+  "successful_requests": 1874,
+  "errors": 0,
+  "error_rate_pct": 0.0,
+  "avg_ms": 545.51,
+  "p95_ms": 699.223,
+  "p99_ms": 770.829,
+  "throughput_req_s": 178.404,
+  "successful_throughput_req_s": 178.404,
+  "error_details": {}
+}

@@ -1,0 +1,25 @@
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Configurações sensíveis
+.env
+.env.*
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+# Diagnósticos temporários dos testes de carga
+results/diagnostics/

@@ -1,0 +1,15 @@
+{
+  "scenario": "index",
+  "users": 10,
+  "duration_s": 10.012,
+  "total_requests": 6820,
+  "successful_requests": 6820,
+  "errors": 0,
+  "error_rate_pct": 0.0,
+  "avg_ms": 14.665,
+  "p95_ms": 20.183,
+  "p99_ms": 23.466,
+  "throughput_req_s": 681.202,
+  "successful_throughput_req_s": 681.202,
+  "error_details": {}
+}
